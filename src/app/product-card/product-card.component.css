@@ -1,0 +1,15 @@
+.card-footer {
+    padding: 0;
+}
+
+.btn-lock {
+    width: 100%;
+}
+
+.card {
+    margin-bottom: 30px;
+}
+
+.card-footer button {
+    cursor: pointer;
+}
